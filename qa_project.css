@@ -1,0 +1,15 @@
+h1 {
+	text-align: center;
+	border-style: solid;
+	border-color: blue;
+	border-left-color: yellow;
+	border-right-color: yellow; 
+	
+}
+h2 {
+	text-align: center;
+}
+#yearup2 {
+	margin-left: 200px;
+	margin-right: 200px;
+}
