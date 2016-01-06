@@ -22,4 +22,29 @@ li a:hover {
     height: 60px;
     width: 300px;
     margin-top: 60px;
+    text-align: right;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: Algerian;
+    color: blue;
+}
+h2 {
+    text-align: center;
+}
+.style {
+    height:200px;
+    width:500px;
+    border:1px solid #ccc;
+    font-family: Georgia;
+    overflow: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+#mods {
+    font-size: 60px;
+    text-align: center;
+    font-family: Algerian;
+    color: yellow;
 }
