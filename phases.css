@@ -21,8 +21,6 @@ li a:hover {
 #logo {
     height: 60px;
     width: 300px;
-    margin-top: 60px;
-    text-align: right;
 }
 h1 {
     font-size: 60px;
@@ -47,4 +45,7 @@ h2 {
     text-align: center;
     font-family: Algerian;
     color: yellow;
+}
+#copyright {
+    margin-top: 60px;
 }

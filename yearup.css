@@ -35,6 +35,8 @@ li a:hover {
 }
 #logo {
     height: 60px;
-    width: 300px;
+    width: 300px;   
+}
+#copyright {
     margin-top: 60px;
 }
