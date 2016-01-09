@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: blue;
+    color: yellow;
+}
+#logo {
+    height: 60px;
+    width: 300px;
+}
+h1 {
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    border-left-color: yellow;
+    border-right-color: yellow; 
+    
+}

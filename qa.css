@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: blue;
+    color: yellow;
+}
+#logo {
+    height: 60px;
+    width: 300px;
+}
+h1 {
+    color: #fdc20e;
+}
+p {
+    font-size: 20px;
+}
+#sdlc {
+    width: 270px;
+    height: 250px;
+}
+#fail {
+    text-align: right;
+    border-style: solid;
+    border-color: white;
+    border-left-color: white;
+    border-right-color: white; 
+    border-top-color: black;
+}
+#nissan {
+    width: 750px;
+    height: 450px;
+}
+#starbucks {
+    width: 750px;
+    height: 330px;
+}
