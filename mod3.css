@@ -30,3 +30,27 @@ h1 {
     border-right-color: yellow; 
     
 }
+h3 {
+    color: #fdc20e;
+}
+#bugs {
+    color: blue;
+}
+#testing {
+    color: blue;
+}
+#border {
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#knowledge {
+    text-align: right;
+    color: blue;
+    font-family: Arial Rounded MT;
+}
+h4 {
+    text-align: center;
+}
