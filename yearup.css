@@ -38,5 +38,11 @@ li a:hover {
     width: 300px;   
 }
 #copyright {
-    margin-top: 60px;
+    margin-top: 30px;
+}
+.textonly {
+    background-color: yellow;
+}
+#email {
+    margin-bottom: 60px;
 }
