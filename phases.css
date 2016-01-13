@@ -62,3 +62,18 @@ img {
     height: 400px;
     width: 600px;
 }
+#copyright {
+    margin-top: 30px;
+}
+.textonly {
+    background-color: yellow;
+}
+#copyright {
+    margin-top: 30px;
+}
+.textonly {
+    background-color: yellow;
+}
+#email {
+    margin-bottom: 60px;
+}
